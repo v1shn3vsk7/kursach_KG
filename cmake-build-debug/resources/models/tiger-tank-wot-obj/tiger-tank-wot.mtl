@@ -1,0 +1,57 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Material000
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump PzVI_Tiger_I_chassis_01_ANM.png
+map_Kd PzVI_Tiger_I_chassis_01_AM.png
+
+newmtl Material001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Tiger_I_track_2014_ANM.png
+map_Kd Tiger_I_track_2014_AM.png
+
+newmtl Material002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump PzVI_Tiger_I_hull_01_ANM.png
+map_Kd PzVI_Tiger_I_hull_01_AM.png
+
+newmtl Material003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump PzVI_Tiger_I_turret_02_ANM.png
+map_Kd PzVI_Tiger_I_turret_02_AM.png
+
+newmtl Material004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump PzVI_Tiger_I_guns_ANM.png
+map_Kd PzVI_Tiger_I_guns_AM.png

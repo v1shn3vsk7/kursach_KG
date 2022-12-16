@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/vladimirvasilev/CLionProjects/untitled/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/example.dir/main.c.o -c /Users/vladimirvasilev/CLionProjects/untitled/main.c",
+  "file": "/Users/vladimirvasilev/CLionProjects/untitled/main.c"
+}
+]
